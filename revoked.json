@@ -1,3 +1,7 @@
-{ 
-  "revoked": ["key-id-1"] 
+{
+  "revoked": [
+    "key-id-1",
+    "key-id-2",
+    "key-id-3"
+  ]
 }
